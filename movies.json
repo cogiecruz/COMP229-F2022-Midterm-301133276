@@ -1,0 +1,20 @@
+
+
+{
+  "movies": [
+    {
+      "Title": "Avengers",
+      "Description": "Marvel Superhero movie",
+      "Released": 2012,
+      "Director": "Anthony/Joe Ruso",
+      "Genre": "Superhero/Action"
+    },
+    {
+      "Title": "Ready Player One",
+      "Description": "Ready Player One is a 2011 science fiction novel, and the debut novel of American author Ernest Cline. The story, set in a dystopia in 2045, follows protagonist Wade Watts on his search for an Easter egg in a worldwide virtual reality game, the discovery of which would lead him to inherit the game creator's fortune",
+      "Released": 2018,
+      "Director": "Steven Spielberg",
+      "Genre": "Sci-fi/Adventure"
+    }
+  ]
+} 
